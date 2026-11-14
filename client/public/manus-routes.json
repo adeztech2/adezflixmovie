@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"ADEZ FLIX — Home"},{"path":"/search","title":"Search the catalog"},{"path":"/movies","title":"Movies"},{"path":"/tv-shows","title":"TV Shows"},{"path":"/live-tv","title":"Live TV"},{"path":"/my-list","title":"My List"},{"path":"/title/:id","title":"Title details"},{"path":"/watch/:id","title":"Player"}]}

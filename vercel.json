@@ -1,0 +1,14 @@
+{
+  "framework": "vite",
+  "buildCommand": "pnpm build:static",
+  "outputDirectory": "dist/public",
+  "rewrites": [
+    { "source": "/movies", "destination": "/index.html" },
+    { "source": "/tv-shows", "destination": "/index.html" },
+    { "source": "/live-tv", "destination": "/index.html" },
+    { "source": "/search", "destination": "/index.html" },
+    { "source": "/my-list", "destination": "/index.html" },
+    { "source": "/title/:id", "destination": "/index.html" },
+    { "source": "/watch/:id", "destination": "/index.html" }
+  ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add a full Sitemap: https://<verified-domain>/sitemap.xml directive after assigning the production domain.
