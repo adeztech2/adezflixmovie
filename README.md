@@ -1,6 +1,6 @@
 # ADEZ FLIX
 
-ADEZ FLIX is a free-to-browse movie, TV, anime, live, and catalog-discovery app powered by the public REST API at <https://davextechmovieapi.fly.dev>. It requires no sign-up, sign-in, login, subscription, payment, or account profile. Branding: **Build By Arnold Adez** · **Powered by ADEZ TECH** · **+254111783552**.
+ADEZ FLIX is a free-to-browse movie, TV, anime, live, and catalog-discovery app powered by the public REST API at <https://adeztechmovieapi.fly.dev>. It requires no sign-up, sign-in, login, subscription, payment, or account profile. Branding: **Build By Arnold Adez** · **Powered by ADEZ TECH** · **+254111783552**.
 
 ## Run and build
 
